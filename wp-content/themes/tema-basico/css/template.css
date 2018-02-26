@@ -1,0 +1,13 @@
+.redes-sociais {
+	height: 30px;
+	background-color: green;
+}
+
+.pesquisa {
+	height: 30px;
+	background-color: yellow;
+}
+
+.menu-principal ul li{
+	display: inline;
+}
